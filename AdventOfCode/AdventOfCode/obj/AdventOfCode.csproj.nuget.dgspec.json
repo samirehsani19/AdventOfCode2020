@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\seh\\source\\repos\\AdventOfCode2020\\AdventOfCode\\AdventOfCode\\AdventOfCode.csproj": {}
+    "C:\\Users\\ehsan\\source\\repos\\AdventOfCode2020\\AdventOfCode\\AdventOfCode\\AdventOfCode.csproj": {}
   },
   "projects": {
-    "C:\\Users\\seh\\source\\repos\\AdventOfCode2020\\AdventOfCode\\AdventOfCode\\AdventOfCode.csproj": {
+    "C:\\Users\\ehsan\\source\\repos\\AdventOfCode2020\\AdventOfCode\\AdventOfCode\\AdventOfCode.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\seh\\source\\repos\\AdventOfCode2020\\AdventOfCode\\AdventOfCode\\AdventOfCode.csproj",
+        "projectUniqueName": "C:\\Users\\ehsan\\source\\repos\\AdventOfCode2020\\AdventOfCode\\AdventOfCode\\AdventOfCode.csproj",
         "projectName": "AdventOfCode",
-        "projectPath": "C:\\Users\\seh\\source\\repos\\AdventOfCode2020\\AdventOfCode\\AdventOfCode\\AdventOfCode.csproj",
-        "packagesPath": "C:\\Users\\seh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\seh\\source\\repos\\AdventOfCode2020\\AdventOfCode\\AdventOfCode\\obj\\",
+        "projectPath": "C:\\Users\\ehsan\\source\\repos\\AdventOfCode2020\\AdventOfCode\\AdventOfCode\\AdventOfCode.csproj",
+        "packagesPath": "C:\\Users\\ehsan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ehsan\\source\\repos\\AdventOfCode2020\\AdventOfCode\\AdventOfCode\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\seh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ehsan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "http://172.20.1.45/guestAuth/app/nuget/v1/FeedService.svc/": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

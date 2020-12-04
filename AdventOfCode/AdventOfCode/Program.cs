@@ -11,7 +11,6 @@ namespace Day1
 
             Day3Part1 d = new Day3Part1();
             d.ReadData();
-
             Console.ReadKey();
         }
     }
