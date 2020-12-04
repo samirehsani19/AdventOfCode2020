@@ -7,11 +7,11 @@ using System.Threading.Tasks;
 
 namespace Day1
 {
-    public class Data
+    public class Day1Part1
     {
         public void ReadNumbers()
         {
-            string path = @"Numbers.txt";
+            string path = @"Day1/Numbers.txt";
             string[] lines = File.ReadAllLines(path);
             int[] numbers = Array.ConvertAll(lines, s => int.Parse(s));
 
@@ -31,7 +31,7 @@ namespace Day1
 
     }
     
-    public class ResultDay1
+    public class Day1Part2
     {
         public void GetProduct()
         {

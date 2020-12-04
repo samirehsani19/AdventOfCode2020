@@ -1,4 +1,6 @@
-﻿using System;
+﻿using AdventOfCode;
+using AdventOfCode.Day3;
+using System;
 
 namespace Day1
 {
@@ -7,9 +9,8 @@ namespace Day1
         static void Main(string[] args)
         {
 
-            ResultDay2 r = new ResultDay2();
-            r.GetPassword();
-
+            Day3Part1 d = new Day3Part1();
+            d.ReadData();
 
             Console.ReadKey();
         }

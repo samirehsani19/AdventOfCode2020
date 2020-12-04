@@ -1,0 +1,16 @@
+C:\Users\seh\source\repos\AdventOfCode2020\AdventOfCode\AdventOfCode\bin\Debug\netcoreapp3.1\AdventOfCode.exe
+C:\Users\seh\source\repos\AdventOfCode2020\AdventOfCode\AdventOfCode\bin\Debug\netcoreapp3.1\Day1\Numbers.txt
+C:\Users\seh\source\repos\AdventOfCode2020\AdventOfCode\AdventOfCode\bin\Debug\netcoreapp3.1\Day2\Password.txt
+C:\Users\seh\source\repos\AdventOfCode2020\AdventOfCode\AdventOfCode\bin\Debug\netcoreapp3.1\AdventOfCode.deps.json
+C:\Users\seh\source\repos\AdventOfCode2020\AdventOfCode\AdventOfCode\bin\Debug\netcoreapp3.1\AdventOfCode.runtimeconfig.json
+C:\Users\seh\source\repos\AdventOfCode2020\AdventOfCode\AdventOfCode\bin\Debug\netcoreapp3.1\AdventOfCode.runtimeconfig.dev.json
+C:\Users\seh\source\repos\AdventOfCode2020\AdventOfCode\AdventOfCode\bin\Debug\netcoreapp3.1\AdventOfCode.dll
+C:\Users\seh\source\repos\AdventOfCode2020\AdventOfCode\AdventOfCode\bin\Debug\netcoreapp3.1\AdventOfCode.pdb
+C:\Users\seh\source\repos\AdventOfCode2020\AdventOfCode\AdventOfCode\obj\Debug\netcoreapp3.1\AdventOfCode.csprojAssemblyReference.cache
+C:\Users\seh\source\repos\AdventOfCode2020\AdventOfCode\AdventOfCode\obj\Debug\netcoreapp3.1\AdventOfCode.AssemblyInfoInputs.cache
+C:\Users\seh\source\repos\AdventOfCode2020\AdventOfCode\AdventOfCode\obj\Debug\netcoreapp3.1\AdventOfCode.AssemblyInfo.cs
+C:\Users\seh\source\repos\AdventOfCode2020\AdventOfCode\AdventOfCode\obj\Debug\netcoreapp3.1\AdventOfCode.csproj.CoreCompileInputs.cache
+C:\Users\seh\source\repos\AdventOfCode2020\AdventOfCode\AdventOfCode\obj\Debug\netcoreapp3.1\AdventOfCode.dll
+C:\Users\seh\source\repos\AdventOfCode2020\AdventOfCode\AdventOfCode\obj\Debug\netcoreapp3.1\AdventOfCode.pdb
+C:\Users\seh\source\repos\AdventOfCode2020\AdventOfCode\AdventOfCode\obj\Debug\netcoreapp3.1\AdventOfCode.genruntimeconfig.cache
+C:\Users\seh\source\repos\AdventOfCode2020\AdventOfCode\AdventOfCode\bin\Debug\netcoreapp3.1\Day3\Trees.txt

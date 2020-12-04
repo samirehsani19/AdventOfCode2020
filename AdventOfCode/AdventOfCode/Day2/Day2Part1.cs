@@ -25,7 +25,7 @@ namespace Day1
             return data;
         }
     }
-    public class ResultDay2
+    public class Day2Part1
     {
         public void GetPassword()
         {
